@@ -1,4 +1,5 @@
 # Spotiso  
+![spotisoa](https://github.com/user-attachments/assets/9570d0fb-c45d-4a28-a1d5-ad762e7656ae)
 
 A simple and effective way to download locally your Spotify musics.
 
